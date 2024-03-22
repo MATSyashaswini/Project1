@@ -2,7 +2,7 @@ import React from 'react'
 
 function text() {
   return (
-    <div>text</div>
+    <div>samikshahiiiiiiiii</div>
   )
 }
 
